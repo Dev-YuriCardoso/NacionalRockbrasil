@@ -20,6 +20,10 @@ dist-ssr
 # Local helpers
 _run_dev.cmd
 
+# Setup scripts com credenciais locais (nunca commitar)
+setup-supabase.sql
+supabase/admin-user.sql
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
